@@ -1,0 +1,13 @@
+C:\Users\muftanatu\methodAndExceptions\bin\Debug\netcoreapp3.1\methodAndExceptions.exe
+C:\Users\muftanatu\methodAndExceptions\bin\Debug\netcoreapp3.1\methodAndExceptions.deps.json
+C:\Users\muftanatu\methodAndExceptions\bin\Debug\netcoreapp3.1\methodAndExceptions.runtimeconfig.json
+C:\Users\muftanatu\methodAndExceptions\bin\Debug\netcoreapp3.1\methodAndExceptions.runtimeconfig.dev.json
+C:\Users\muftanatu\methodAndExceptions\bin\Debug\netcoreapp3.1\methodAndExceptions.dll
+C:\Users\muftanatu\methodAndExceptions\bin\Debug\netcoreapp3.1\methodAndExceptions.pdb
+C:\Users\muftanatu\methodAndExceptions\obj\Debug\netcoreapp3.1\methodAndExceptions.csprojAssemblyReference.cache
+C:\Users\muftanatu\methodAndExceptions\obj\Debug\netcoreapp3.1\methodAndExceptions.AssemblyInfoInputs.cache
+C:\Users\muftanatu\methodAndExceptions\obj\Debug\netcoreapp3.1\methodAndExceptions.AssemblyInfo.cs
+C:\Users\muftanatu\methodAndExceptions\obj\Debug\netcoreapp3.1\methodAndExceptions.csproj.CoreCompileInputs.cache
+C:\Users\muftanatu\methodAndExceptions\obj\Debug\netcoreapp3.1\methodAndExceptions.dll
+C:\Users\muftanatu\methodAndExceptions\obj\Debug\netcoreapp3.1\methodAndExceptions.pdb
+C:\Users\muftanatu\methodAndExceptions\obj\Debug\netcoreapp3.1\methodAndExceptions.genruntimeconfig.cache
